@@ -1,6 +1,6 @@
 # Swelling-ViT PyTorch implementation
 
-This is a PyTorch/GPU implementation of the paper: [ViT-P: Rethinking Data-efficient Vision Transformers from Locality](https://arxiv.org/abs/2203.02358).
+This is a PyTorch/GPU implementation of the paper: [Swelling-ViT: Rethinking Data-efficient Vision Transformers from Locality](https://arxiv.org/abs/2203.02358).
 
 ## Performance
 

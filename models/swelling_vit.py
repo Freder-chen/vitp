@@ -10,7 +10,9 @@
 
 import math
 import logging
+import collections
 import numpy as np
+from itertools import repeat
 from functools import partial
 from collections import OrderedDict
 
